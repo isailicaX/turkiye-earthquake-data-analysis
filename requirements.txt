@@ -1,1 +1,21 @@
-pandas numpy matplotlib seaborn jupyter
+# Data Processing and Analysis
+pandas          # pip install pandas
+numpy           # pip install numpy
+scipy           # pip install scipy
+
+# Visualization
+matplotlib      # pip install matplotlib
+seaborn         # pip install seaborn
+plotly          # pip install plotly
+
+# Machine Learning (If Used)
+scikit-learn    # pip install scikit-learn
+tensorflow      # pip install tensorflow
+
+# Geographic Data Analysis (If Used)
+folium          # pip install folium
+geopandas       # pip install geopandas
+
+# Jupyter Notebook
+jupyter         # pip install jupyter
+ipykernel       # pip install ipykernel
