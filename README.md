@@ -7,8 +7,10 @@ This project analyzes earthquake data in Turkey from 1915 to 2024 using Python.
     ```bash
     git clone https://github.com/YOUR_USERNAME/turkey-earthquake-analysis.git
 
-2. Install dependencies
+2. Install dependencies:
+    ```bash
     pip install -r requirements.txt
 
 3. Open the jupyter notebook
+    ```bash
     jupyter notebook earthquake-analysis.ipynb
